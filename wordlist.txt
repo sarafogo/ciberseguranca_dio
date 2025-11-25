@@ -1,0 +1,10 @@
+admin
+msfadmin
+root
+password
+123456
+qwerty
+letmein
+secret
+admin123
+passw0rd
