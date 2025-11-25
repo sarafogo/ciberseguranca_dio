@@ -1,0 +1,8 @@
+Administrator
+admin
+user
+guest
+test
+msfadmin
+john
+maria
